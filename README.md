@@ -51,5 +51,4 @@ Browser validation completed the updated outdoor route with a controlled browser
 
 The annotation update was also checked in the live browser: all seven tutorial lessons were completed with normal pointer and keyboard controls, both pickup illustrations and their clear approaches were inspected, and exiting practice restored an in-progress run with its timer preserved.
 
-Sites publishing was attempted but the connector returned `sites_access_disabled`: Sites is not yet enabled for this workspace. No online deployment was created.
 
