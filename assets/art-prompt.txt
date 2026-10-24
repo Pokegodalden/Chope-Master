@@ -1,0 +1,9 @@
+Mode: Built-in image_gen tool
+
+Use case: stylized-concept
+Asset type: cover illustration for a browser game called Chope Master, also used in the game's briefing card.
+Primary request: A charming, detailed isometric diorama of a bustling Singapore CBD hawker centre at lunchtime, inspired by Lau Pa Sat. Hungry office workers carrying tissue packets and wearing lanyards weave between round orange tables and turquoise stools, chicken rice stalls with red and cream striped awnings, tray return robot, one blue umbrella, tropical plants, metal Victorian roof framing and distant modern office buildings. A central office worker with teal trousers holds a small tissue packet determinedly. Expressive tiny characters, readable individual tables and tasty plates of chicken rice.
+Style: polished indie game illustration, hand-painted pixel-inspired geometry, crisp edges, subtly textured paper, cute miniature proportions, rich details, no photorealism.
+Composition: wide landscape isometric cutaway filling the image edge to edge; inviting sunny lunchtime scene.
+Palette: warm cream, terracotta orange, forest green, teal, golden yellow, dark ink outlines.
+Constraints: no title, no lettering, no logos, no watermark. This is cover art, not a screenshot or user interface.
